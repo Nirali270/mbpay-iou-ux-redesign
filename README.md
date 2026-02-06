@@ -34,12 +34,7 @@ and transaction flow clarity.
 - Color-coded transaction status for faster recognition
 
 ---
-
-## 🖼️ Key Screens
-![Login Screen](./screens/login.png)
-![Dashboard Screen](./screens/dashboard.png)
-![Payment Flow Screen](./screens/payment.png)
-![Transactions Screen](./screens/transactions.png)
+<img width="1920" height="1440" alt="mockup-featuring-two-iphones-x-floating-against-a-solid-color-background-28764" src="https://github.com/user-attachments/assets/18c2b755-9620-462d-ad38-d2bf6ba885fd" />
 
 ---
 
